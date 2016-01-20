@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="Example1" ng-strict-di>
+<head>
+	<meta charset="UTF-8">
+	<title>Example 1 | Angular Trianglify</title>
+
+	<style>
+		body{
+			margin: 0;
+			height: 100vh;
+			text-align: center;
+		}
+	</style>
+</head>
+<body trianglify>
+	<h1>Welcome to the 1st example!</h1>
+	
+	<script src="../bower_components/trianglify/dist/trianglify.min.js"></script>
+	<script src="../bower_components/angular/angular.js"></script>
+	<script src="../angular-trianglify.js"></script>
+	<script>
+		;(function(){
+			var app = angular.module('Example1', ['stefanoschrs.angular-trianglify']);
+		})();
+	</script>
+</body>
+</html>

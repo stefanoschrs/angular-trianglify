@@ -1,0 +1,30 @@
+{
+  "name": "angular-trianglify",
+  "version": "0.0.1",
+  "description": "Angular wrapper for Trianglify.js",
+  "main": "angular-trianglify.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanoschrs/angular-trianglify.git"
+  },
+  "keywords": [
+    "angular",
+    "trianglify"
+  ],
+  "author": "Stefanos Chrs <stefanoschrs@hotmail.com> (http://www.stfnstudios.com/)",
+  "bugs": {
+    "url": "https://github.com/stefanoschrs/angular-trianglify/issues"
+  },
+  "homepage": "https://github.com/stefanoschrs/angular-trianglify#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-bump": "^1.0.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-git": "^1.6.1",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-tag-version": "^1.3.0"
+  }
+}

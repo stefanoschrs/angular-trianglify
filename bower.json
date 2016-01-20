@@ -1,0 +1,19 @@
+{
+  "name": "angular-trianglify",
+  "homepage": "https://github.com/stefanoschrs/angular-trianglify",
+  "authors": [
+    "Stefanos Chrs <stefanoschrs@hotmail.com>"
+  ],
+  "description": "Angular wrapper for Trianglify.js",
+  "main": "angular-trianglify.js",
+  "keywords": [
+    "angular",
+    "trianglify"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "trianglify": "^0.4.0",
+    "angular": "^1.4.8"
+  },
+  "version": "0.0.1"
+}
